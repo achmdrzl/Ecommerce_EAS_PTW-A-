@@ -32,12 +32,4 @@ Umum
 - Menampilkan product perkategori
 - Detail Product
 
-Template Menggunakan Admin LTE
-
-Package yang digunakan yaitu 
-- https://github.com/Maatwebsite/Laravel-Excel
-- https://github.com/barryvdh/laravel-dompdf
-- https://github.com/Crinsane/LaravelShoppingcart
-- Sweetalert
-
 
